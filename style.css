@@ -1,0 +1,184 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(163, 36, 30);
+    margin: none;
+    padding: none;
+    box-sizing: border-box;
+    
+
+}
+
+.imagem{
+    position: static;
+
+}
+
+.main{
+    position: absolute;
+    top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    font-size: 60px;
+    align-items: center;
+}
+
+.main-list{
+    list-style: none;
+    font-size: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.footer{
+    position:absolute;
+    bottom: 0px;
+    right: 100 px;
+}
+
+.list-roupas{
+    list-style: none;
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    gap: 20px;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
